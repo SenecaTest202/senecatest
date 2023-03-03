@@ -1,0 +1,47 @@
+{
+  "entityType" : "ENTITY_GROUP",
+  "entity" : {
+    "additionalInfo" : null,
+    "configuration" : {
+      "columns" : [ {
+        "type" : "ENTITY_FIELD",
+        "key" : "created_time",
+        "sortOrder" : "DESC"
+      }, {
+        "type" : "ENTITY_FIELD",
+        "key" : "title",
+        "sortOrder" : "NONE"
+      } ],
+      "settings" : {
+        "groupTableTitle" : "",
+        "enableSearch" : true,
+        "enableAdd" : true,
+        "enableDelete" : true,
+        "enableSelection" : true,
+        "enableGroupTransfer" : true,
+        "detailsMode" : "onRowClick",
+        "displayPagination" : true,
+        "defaultPageSize" : 10
+      },
+      "actions" : { }
+    },
+    "createdTime" : 1588629144258,
+    "edgeGroupAll" : false,
+    "externalId" : null,
+    "groupAll" : false,
+    "id" : {
+      "entityType" : "ENTITY_GROUP",
+      "id" : "89bcfa20-8e51-11ea-886a-31552cfa7a2a"
+    },
+    "name" : "Admin Dashboards",
+    "ownerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "543fe890-6f51-11ea-b009-812081829598"
+    },
+    "type" : "DASHBOARD"
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "groupEntities" : true
+}

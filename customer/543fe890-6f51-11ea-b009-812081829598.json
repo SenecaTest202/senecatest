@@ -1,0 +1,37 @@
+{
+  "entityType" : "CUSTOMER",
+  "entity" : {
+    "additionalInfo" : null,
+    "address" : null,
+    "address2" : null,
+    "city" : null,
+    "country" : null,
+    "createdTime" : 1585220568473,
+    "customerId" : null,
+    "email" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "CUSTOMER",
+      "id" : "543fe890-6f51-11ea-b009-812081829598"
+    },
+    "name" : "Seneca College",
+    "ownerId" : null,
+    "parentCustomerId" : null,
+    "phone" : null,
+    "state" : null,
+    "tenantId" : null,
+    "title" : "Seneca College",
+    "zip" : null
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "whiteLabelParams",
+      "lastUpdateTs" : 1670491960081,
+      "longValue" : null,
+      "strValue" : "{\"logoImageUrl\":\"\",\"logoImageChecksum\":null,\"logoImageHeight\":45,\"appTitle\":\"IMSense\",\"favicon\":{\"url\":\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAApCAYAAABdnotGAAAEHUlEQVRYR+1WS2wTVxQ9b/wZYwe7dlI3P/IxVQXLBosgEnZULFB3VSukSiQyTaAutdQmVRZNu+gCS2RRREnVRdomzapSiyq6KBtWFRuEoiKKYpsWjxsWOAZ/cGzHHs+t3kwcsSDMTBMkKvlJs5l33z3nnft7DC/YYi8YHzQJ6UWkqVBTIT0F9Pa3nUN/fxklelBE9p97UGoKBJsA7xtBMIsFgXc/NO3f9AF+Q+nCBbJmMsjfvwulUAZKNZTzOUBRAMbg6O8AYwzMZkVnXx+8n0cN4xg2bEgdP3mS1m/fRnF5GZYWN2BhEGw2MKtVJcMXrddAIPW/p1SG4+OP0D05YQjLkFGDTGr8Lcpcj4EqlY1fBJkA7HLg1bMRtI69t+kvPzdH64k4Hs8vQIxE0D01ZQjLkBFH/yv6BVV+/hHlbAWQZUAQoJTLcA0MwDk4iP7p6af6yl26RC+Fw4ZxDBsmPzhL6R8WIfjbQPW6mrT1bBavjIygb2bGsJ8dq7I7I2/T2m+/g7U4gXpdVYi4QgcPwjU0hN7JyR0hZdhJ4nSIsj9dgeBxa9XElyzD2t4O+549cB87hu6xMcP+tlLKsANp8hN6sLgAwe0G1WQwIrWqqFoFz2tfIADX4CA6zp837PNppEwdTrx5mAp/pkF1GbAIm/54PvEQqmXPGJRKBa5gEC3Dw+iJRExhmDIuzH1FicVFUCYHypXAbBao8nAixDuPtrhqYmcnrD098B06hA4T+WWKEAdbev8dUmIpILkKcEIKaWT4pyjguhEnWKtBURTIlQraT5xA4OJFQ1iGjLZKwNjx47QuSVhLpWBzuwHerXnoNhYPJeP9ihN17sLAH7d08XQN9PqGdO4ciQ8fYuXGDeDRI1AuB2azbcROC6JKSLQjGE/o4uka6BFq7C+Fw6QsLwPJJIirxHsVX7wSFQUWu4j+w0Pwfjf3TMwdI/Qk8Zt791K9WlWHq5pfTBvAPiLYw2F0PaPyng+ho0eJ0mmgUNByikgNo9fjgf3UKXSPj2+J+1wILYVCRPE4FElSE51XoCCK8O3fj/7Ll7cfsnvfz1MlcQvllRgG5n/VvcTNI8NUX81A4M8UPvNkWQ1ZYGIU3jOfbp8Qz4+7UxOUvXoFzgNHIPr9EHw+iK2t6Bod3QSQZqIk5jNY+eUqqFQGk2XtZeDxgPn9OHDtmu5ldA0aySpNf0bp2a/Vac+nPA/Dy8Eg2O7dIIcDKOSxlkyhKKVgb/NpzZGPlGoV6O2FsG8fXp+d1cXTNXiyeigapUTsOmypjNqpVx/n+EMVjGnNkJQ6GAhtTqdKQu7rw2sLC6YwTBk3yN3/9htCbg2VYhGsWgLVSlrLsTlBogsOlwvweNAVCpn2b/qA0Ub5X+2ahPSUayrUVEhPAb39Zg797xT6FyPKiTkblGyIAAAAAElFTkSuQmCC\",\"type\":\"image/png\"},\"faviconChecksum\":\"acfe51df0152f0f003f5ad99332b54fdf087eba2\",\"paletteSettings\":{\"primaryPalette\":null,\"accentPalette\":null},\"helpLinkBaseUrl\":null,\"uiHelpBaseUrl\":null,\"enableHelpLinks\":null,\"whiteLabelingEnabled\":true,\"showNameVersion\":null,\"platformName\":null,\"platformVersion\":null,\"customCss\":null}"
+    } ]
+  }
+}
